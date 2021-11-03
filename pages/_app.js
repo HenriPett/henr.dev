@@ -1,7 +1,8 @@
-import '../styles/globals.css'
+import "../styles/theme.css";
+import "../styles/fluiditype.css";
+import "../styles/styles.css";
+import "../styles/equalizer.css";
 
-function MyApp({ Component, pageProps }) {
-  return <Component {...pageProps} />
+export default function MyApp({ Component, pageProps }) {
+  return <Component {...pageProps} />;
 }
-
-export default MyApp
