@@ -4,20 +4,6 @@
   box-sizing: border-box;
 }
 
-.image-container {
-
-    width: 50vw;
-    height: 75vh;
-    position: relative;
-}
-.image {
-	  object-fit: contain;
-	  width: 100%;
-	  position: relative;
-	  height: 75vh;
-	}
-
-
 :root {
   --font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, Courier,
     monospace;
