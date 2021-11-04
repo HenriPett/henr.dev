@@ -1,6 +1,6 @@
 ## My personal website
 
-This is the code that runs on [henrip.dev](https://henr.dev), where I try to express myself about technology and software deveploment.
+This is the code that runs on [henr.dev](https://henr.dev), where I try to express myself about technology and software deveploment.
 
 I've used those tools for it:
 
