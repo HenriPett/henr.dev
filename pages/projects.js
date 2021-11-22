@@ -22,7 +22,7 @@ const Playground = () => (
           <a className="backButton">Back</a>
         </Link>
         <h1 className="heading2Xl">Projects</h1>
-		<Image src="/carbon.svg" width="1110px" height="768"/>
+		<img src="carbon.svg" style={{"width": "100%", "height": "auto"}}/>
         <p>
           Welcome to my projects page, where I try to explain 
 		  everything that I do. Feel free to browse through
