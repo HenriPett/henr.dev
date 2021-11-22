@@ -6,7 +6,6 @@ import Link from "next/link";
 import MainWrapper from "../components/mainWrapper";
 import Main from "../components/innerWrapper";
 import Card from "../components/card";
-import Image from "next/image";
 
 const Playground = () => (
   <Motion>
