@@ -23,7 +23,7 @@ const Playground = () => (
         </Link>
         <h1 className="heading2Xl">Projects</h1>
         <section>
-          <img src="/carbon.svg" />
+          <img src="/carbon.png" />
         </section>
         <p>
           Welcome to my projects page, where I try to explain everything that I
