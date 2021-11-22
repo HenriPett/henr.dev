@@ -21,7 +21,7 @@ const About = () => (
         <h1 className="heading2Xl">Hey,</h1>
         <div className="contentWrapper">
           <section>
-            <img src="/me.jpg" />
+            <img src="/me2.jpg" style={{"border-radius": "20px"}}/>
           </section>
           <section>
             <p>
