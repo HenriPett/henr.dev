@@ -6,6 +6,7 @@ import Link from "next/link";
 import MainWrapper from "../components/mainWrapper";
 import Main from "../components/innerWrapper";
 import Card from "../components/card";
+import Footer from "../components/footer";
 
 const Playground = () => (
   <Motion>
@@ -113,6 +114,7 @@ const Playground = () => (
         </div>
       </Main>
     </MainWrapper>
+    <Footer />
   </Motion>
 );
 
