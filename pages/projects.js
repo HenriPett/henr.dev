@@ -22,11 +22,12 @@ const Playground = () => (
           <a className="backButton">Back</a>
         </Link>
         <h1 className="heading2Xl">Projects</h1>
-		<img src="carbon.svg" style={{"width": "100%", "height": "auto"}}/>
+        <section>
+          <img src="/carbon.svg" />
+        </section>
         <p>
-          Welcome to my projects page, where I try to explain 
-		  everything that I do. Feel free to browse through
-          the projects and experiment with them.
+          Welcome to my projects page, where I try to explain everything that I
+          do. Feel free to browse through the projects and experiment with them.
         </p>
 
         <div className="contentWrapper">
@@ -39,7 +40,7 @@ const Playground = () => (
             target="_blank"
           />
 
-		<Card
+          <Card
             link="https://github.com/HenriPett/Trafficsignreco"
             className="external mainCard"
             title="Traffic Sign Recognition"
@@ -48,7 +49,7 @@ const Playground = () => (
             target="_blank"
           />
 
-		<Card
+          <Card
             link="https://github.com/HenriPett/SVMmodel"
             className="external mainCard"
             title="Explained SVM Model"
@@ -57,7 +58,7 @@ const Playground = () => (
             target="_blank"
           />
 
-		<Card
+          <Card
             link="https://github.com/HenriPett/CNNmodel"
             className="external mainCard"
             title="Explained CNN Model"
@@ -66,7 +67,7 @@ const Playground = () => (
             target="_blank"
           />
 
-		<Card
+          <Card
             link="https://github.com/HenriPett/Linkedin_Crawler"
             className="external mainCard"
             title="LinkedIn Crawler"
@@ -75,7 +76,7 @@ const Playground = () => (
             target="_blank"
           />
 
-		<Card
+          <Card
             link="https://github.com/HenriPett/RemoteSensing_Study"
             className="external mainCard"
             title="Remote Sensing Study"
@@ -84,7 +85,7 @@ const Playground = () => (
             target="_blank"
           />
 
-		<Card
+          <Card
             link="https://github.com/HenriPett/MachineLearning_Study"
             className="external mainCard"
             title="Machine Learning Study"
@@ -93,7 +94,7 @@ const Playground = () => (
             target="_blank"
           />
 
-		<Card
+          <Card
             link="https://github.com/HenriPett/GolangBot"
             className="external mainCard"
             title="Discord Go Bot"
@@ -102,7 +103,7 @@ const Playground = () => (
             target="_blank"
           />
 
-		<Card
+          <Card
             link="https://github.com/HenriPett/the-traveller-bot"
             className="external mainCard"
             title="The Traveller Discord Bot"
@@ -110,7 +111,6 @@ const Playground = () => (
             type="Repository"
             target="_blank"
           />
-		  
         </div>
       </Main>
     </MainWrapper>
