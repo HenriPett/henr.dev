@@ -196,7 +196,7 @@ li.footerLi:last-child {
 }
 
 .innerWrapper {
-  padding: 8vw 24vw 6vw 24vw;
+  padding: 2vw 24vw 6vw 24vw;
   flex: 1;
   display: flex;
   flex-direction: column;
@@ -211,8 +211,8 @@ li.footerLi:last-child {
   justify-content: flex-start;
   flex-wrap: wrap;
   width: 100%;
-  max-width: 1220px;
-  margin-top: 5vw;
+  max-width: fit-content;
+  margin-top: 1vw;
 }
 
 .notReadyWrapper {

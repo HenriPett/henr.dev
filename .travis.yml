@@ -1,4 +1,0 @@
-language: javascript
-rvm:
-  - 1.7
-  - javascript
