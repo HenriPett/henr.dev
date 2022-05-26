@@ -27,12 +27,8 @@ const About = () => (
             <p>
               <span className='dropCap'>M</span>y name is Henrique. I'm a
               Brazilian Data Scientist. My passion for technology made me a
-              self-taught programmer. At the beginning of 2020, my best friend
-              Richard asked me what area I would like to start in the Tech
-              field. Like many of the new developers my age, I've chosen AI. So
-              Richard recommended me Python. After that day, I challenged myself
-              to learn Python till the end of the year. But guess what, I was so
-              excited that I learned in one month!
+              self-taught programmer! I started my journey by studying basic
+              programming logic in Python.
             </p>
             <p>
               After learning the main concepts of programming with Python, I
@@ -53,14 +49,17 @@ const About = () => (
             </p>
             <p>
               Nowadays, I'm working as a Data Scientist at{' '}
-              <a href='https://bom.capital/'>Bom</a>, and I'm learning how to
-              struct a Data team in a company. It's a real challenge!
+              <a href='https://bom.capital/'>Bom</a>, and as a Machine Learning
+              Engineer at{' '}
+              <a href='https://www.taufferconsulting.com/'>
+                Tauffer Consulting
+              </a>
+              .
             </p>
             <p>
-              My future goals consist of being a great Data Scientist/Machine
-              learning Engineer and a professional problem solver. Be a part of
-              Freelance projects and do whatever It's asked for a good problem
-              solver.
+              My future goals consist of being a requested Data
+              Scientist/Machine learning Engineer and a professional problem
+              solver. Also, be a part of an All-Star Machine Learning team.
             </p>
           </section>
         </div>

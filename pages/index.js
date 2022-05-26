@@ -17,9 +17,17 @@ const Home = () => (
       <Main>
         <h1 className='heading2Xl'>Hey, I'm Henrique! </h1>
         <p>
-          and I'm a Data scientist working at {''}
+          I'm a Data Scientist working at {''}
           <Link href='https://bom.capital/' as='https://bom.capital/'>
             <a className='internalPassage'>Bom Capital</a>
+          </Link>{' '}
+          and
+          <br />a Machine Learning Engineer at {''}
+          <Link
+            href='https://www.taufferconsulting.com/'
+            as='https://www.taufferconsulting.com/'
+          >
+            <a className='internalPassage'>Tauffer Consulting</a>
           </Link>
         </p>
         <div className='contentWrapper'>
