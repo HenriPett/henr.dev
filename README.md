@@ -1,3 +1,4 @@
+[![Coverage Status](https://coveralls.io/repos/github/HenriPett/henr.dev/badge.svg?branch=main)](https://coveralls.io/github/HenriPett/henr.dev?branch=main)
 ## My personal website
 
 This is the code that runs on [henr.dev](https://henr.dev), where I try to express myself about technology and software deveploment.
