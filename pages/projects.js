@@ -31,6 +31,15 @@ const Playground = () => (
         </p>
 
         <div className='contentWrapper'>
+        <Card
+            link='https://github.com/HenriPett/Churn-prediction'
+            className='external mainCard'
+            title='Churn Prediction'
+            description='Notebook showing and explaining how I was able to predict if a person will churn or not.'
+            type='Repository'
+            target='_blank'
+          />
+
           <Card
             link='https://github.com/HenriPett/MNIST-project-with-save'
             className='external mainCard'
