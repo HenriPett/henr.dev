@@ -48,6 +48,16 @@ export default function Writings() {
               type={"Blog"}
               target=""
             />
+            <Card
+              link={`https://henriquepett.medium.com/why-its-essential-to-make-decisions-with-multiple-individuals-5a5b43e88496`}
+              className="mainCard"
+              title={"Why It's essential to make decisions with multiple individuals?"}
+              description={
+                "A prediction, when taken together, has a much higher accuracy rate compared to a prediction taken by a single individual!"
+              }
+              type={"Blog"}
+              target=""
+            />
           </div>
         </Main>
       </MainWrapper>
