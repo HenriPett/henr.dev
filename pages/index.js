@@ -11,24 +11,17 @@ const Home = () => (
     <MainWrapper>
       <Metadata
         title='Henrique P.'
-        description='Data Scientist'
+        description='Machine Learning Engineer'
         name='Henrique Pett'
       />
       <Main>
         <h1 className='heading2Xl'>Hey, I'm Henrique! </h1>
         <p>
-          I'm a Data Scientist working at {''}
-          <Link href='https://bom.capital/' as='https://bom.capital/'>
-            <a className='internalPassage'>Bom Capital</a>
-          </Link>{' '}
-          and
-          <br />a Machine Learning Engineer at {''}
-          <Link
-            href='https://www.taufferconsulting.com/'
-            as='https://www.taufferconsulting.com/'
-          >
-            <a className='internalPassage'>Tauffer Consulting</a>
+          I'm a Machine Learning Engineer working at {''}
+          <Link href='https://www.loopt.com.br/' as='https://www.loopt.com.br/'>
+            <a className='internalPassage'>Loopt</a>
           </Link>
+         
         </p>
         <div className='contentWrapper'>
           <section>

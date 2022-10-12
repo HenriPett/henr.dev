@@ -26,7 +26,7 @@ const About = () => (
           <section>
             <p>
               <span className='dropCap'>M</span>y name is Henrique. I'm a
-              Brazilian Data Scientist. My passion for technology made me a
+              Brazilian Machine Learning Engineer. My passion for technology made me a
               self-taught programmer! I started my journey by studying basic
               programming logic in Python.
             </p>
@@ -48,12 +48,8 @@ const About = () => (
               effort in the process.
             </p>
             <p>
-              Nowadays, I'm working as a Data Scientist at{' '}
-              <a href='https://bom.capital/'>Bom</a>, and as a Machine Learning
-              Engineer at{' '}
-              <a href='https://www.taufferconsulting.com/'>
-                Tauffer Consulting
-              </a>
+              Nowadays, I'm working as a Machine Learning Engineer at{' '}
+              <a href='https://www.loopt.com.br/'>Loopt</a>
               .
             </p>
             <p>
