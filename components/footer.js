@@ -1,7 +1,7 @@
 const Footer = () => (
   <footer>
     <a href="https://read.cv/henripett" rel="noopener noreferrer">
-      <small>Get Resume 2021 © </small>
+      <small>Get Resume © </small>
     </a>
     <div>
       <ul className="footerList">
