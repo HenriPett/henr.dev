@@ -27,13 +27,11 @@ export default function Writings() {
           </p>
           <div className="contentWrapper">
             <Card
-              link={`https://henriquepett.medium.com/how-to-learn-about-the-market-with-the-three-greatest-economists-in-the-world-and-their-theories-53866083500f`}
+              link={`https://henriquepett.medium.com/what-is-probability-calibration-and-how-can-you-do-it-easily-3c9f9ed48a60`}
               className="mainCard"
-              title={
-                "How to learn about the market with the three greatest economists in the world and their theories."
-              }
+              title={"What is probability calibration, and how can you do it easily?"}
               description={
-                "In this article, I’ll be discussing BBC’s documentary “Masters Of Money”, which examines how three extraordinary thinkers, John M. Keynes, Friedrich Hayek, and Karl Marx, helped shape the 20th century. In this context, I’ll add some of my experiences and examples in the financial market to make their ideas more understandable."
+                "In this article, we examined what model calibration is, how and when to use it, how to check if your classifier is calibrated, and how to fix it if not."
               }
               type={"Blog"}
               target=""
@@ -44,6 +42,18 @@ export default function Writings() {
               title={"Why you should use Data Science?"}
               description={
                 "This article will tell you the price and the benefits of using Data in your life and your company. Let me previously say, It’s worth it! I will try to show the company and the data scientist’s view, also attach relevant examples."
+              }
+              type={"Blog"}
+              target=""
+            />
+            <Card
+              link={`https://henriquepett.medium.com/how-to-learn-about-the-market-with-the-three-greatest-economists-in-the-world-and-their-theories-53866083500f`}
+              className="mainCard"
+              title={
+                "How to learn about the market with the three greatest economists in the world and their theories."
+              }
+              description={
+                "In this article, I’ll be discussing BBC’s documentary “Masters Of Money”, which examines how three extraordinary thinkers, John M. Keynes, Friedrich Hayek, and Karl Marx, helped shape the 20th century. In this context, I’ll add some of my experiences and examples in the financial market to make their ideas more understandable."
               }
               type={"Blog"}
               target=""
