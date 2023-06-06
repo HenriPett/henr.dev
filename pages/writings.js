@@ -33,7 +33,7 @@ export default function Writings() {
               description={
                 "This guide presents a step-by-step process for creating a versatile machine learning pipeline that's adaptable to various environments."
               }
-              type={"Blog"}
+              type={"Blog", "W/ Neptune"}
               target=""
             />
             <Card
