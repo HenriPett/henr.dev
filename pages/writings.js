@@ -27,6 +27,16 @@ export default function Writings() {
           </p>
           <div className="contentWrapper">
             <Card
+              link={`https://neptune.ai/blog/building-ml-model-training-pipeline`}
+              className="mainCard"
+              title={"How to Build ML Model Training Pipeline"}
+              description={
+                "This guide presents a step-by-step process for creating a versatile machine learning pipeline that's adaptable to various environments."
+              }
+              type={"Blog"}
+              target=""
+            />
+            <Card
               link={`https://henriquepett.medium.com/what-is-probability-calibration-and-how-can-you-do-it-easily-3c9f9ed48a60`}
               className="mainCard"
               title={"What is probability calibration, and how can you do it easily?"}
