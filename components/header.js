@@ -64,7 +64,7 @@ const GetPhrase = () => {
 
 const Header = () => (
   <header>
-    <GetPhrase />
+    // <GetPhrase />
     <small />
     <DarkMode />
   </header>
