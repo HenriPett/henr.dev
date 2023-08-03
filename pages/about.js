@@ -25,38 +25,37 @@ const About = () => (
           </section>
           <section>
             <p>
-              <span className='dropCap'>M</span>y name is Henrique. I'm a
-              Brazilian Machine Learning Engineer. My passion for technology made me a
-              self-taught programmer! I started my journey by studying basic
-              programming logic in Python.
+              <span className='dropCap'>A</span>s a Machine Learning Engineer at Loopt, I leverage the transformative power
+              of Artificial Intelligence (AI), data science, and advanced statistical techniques
+              to create high-impact solutions for different companies to overcome their most 
+              challenging logistic problems. I have developed an end-to-end solution that saves
+              thousands of dollars annually by avoiding inappropriate movements and predicting future outcomes.
             </p>
             <p>
-              After learning the main concepts of programming with Python, I
-              started to go beyond that and learn about Data Science and
-              Back-end development. A few months after, I joined research at my
-              college about Machine Learning algorithms and learned a lot about
-              statistics, data, and Neural networks. The research idea was to
-              test machine learning algorithms in embedded systems and calculate
-              their efficiency.
+              My career began as an AI/ML researcher, focusing intensively on algorithm performance and 
+              optimization across various embedded systems. Transitioning to a developer role, I garnered
+              invaluable insights into technology product development while refining my Python, TensorFlow,
+              PyTorch, Scikit-Learn, and SQL skills. This passion for AI/ML subsequently guided me back to the 
+              data domain, where I played a pivotal role in founding a data department at my company.
             </p>
             <p>
-              After about half a year, I quit the research to enter one of the
-              world's most prestigious Software Engineer courses at{' '}
-              <a href='https://42.fr/en/homepage/'>École 42</a>. The course
-              selection process is arduous. My class started with 12.000
-              candidates and passed only 120 due to the high demand of time and
-              effort in the process.
+              With a solid track record in the financial and logistics sectors, I specialize in wielding
+              AI/ML tools, Deep Learning frameworks, and sophisticated statistical methods to drive innovation
+              and achieve sustainable results. My comprehensive technical skill set encompasses proficiency in 
+              Python programming, experience with Deep Learning/Machine Learning frameworks, expertise in SQL, 
+              and familiarity with AWS Cloud services. My portfolio spans projects in predictive modeling, data analysis, production
+              model deployment, and advanced statistical modeling.
             </p>
             <p>
-              Nowadays, I'm working as a Machine Learning Engineer at{' '}
-              <a href='https://www.loopt.com.br/'>Loopt</a>
-              .
+              Fluent in English and with basic knowledge of French, I consistently endeavor to expand both my linguistic and technical abilities.
             </p>
             <p>
-              My future goals consist of being a requested Data
-              Scientist/Machine learning Engineer and a professional problem
-              solver. Also, be a part of an All-Star Machine Learning team.
-            </p>
+              Recently, I have ventured deeper into the exploration of Reinforcement Learning, a crucial frontier in Artificial Intelligence. 
+              Specifically, I've concentrated on the use of actor-critic methods in my latest project. Actor-critic methods, which 
+              constitute a vital component of modern Reinforcement Learning algorithms, provide an optimal balance between exploration and
+              exploitation in complex decision-making processes. This deep dive into adaptive algorithms has not only expanded my
+              expertise but also provided a fresh impetus to my commitment towards driving innovative solutions in AI.
+            </p> 
           </section>
         </div>
       </Main>
