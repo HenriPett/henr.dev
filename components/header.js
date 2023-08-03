@@ -38,33 +38,32 @@ function DarkMode() {
   );
 }
 
-const GetPhrase = () => {
-  const [text, setText] = useState()
-  const [author, setAuthor] = useState()
+// const GetPhrase = () => {
+//   const [text, setText] = useState()
+//   const [author, setAuthor] = useState()
 
-  const generate_random_num = () => {
-    return Math.floor(Math.random() * 1643)
-  }
+//   const generate_random_num = () => {
+//     return Math.floor(Math.random() * 1643)
+//   }
 
-  useEffect(() => {
-    const number = generate_random_num()
-    axios.get("https://type.fit/api/quotes")
-    .then(response => {
-      setText(response.data[number].text)
-      setAuthor(response.data[number].author)
-    })
-  }, [])
+//   useEffect(() => {
+//     const number = generate_random_num()
+//     axios.get("https://type.fit/api/quotes")
+//     .then(response => {
+//       setText(response.data[number].text)
+//       setAuthor(response.data[number].author)
+//     })
+//   }, [])
 
-  return (
-    <div className="contentWrapper">
-      "{text}" {author}
-    </div>
-  )
-}
+//   return (
+//     <div className="contentWrapper">
+//       "{text}" {author}
+//     </div>
+//   )
+// }
 
 const Header = () => (
   <header>
-    // <GetPhrase />
     <small />
     <DarkMode />
   </header>
