@@ -11,7 +11,7 @@ const Home = () => (
     <MainWrapper>
       <Metadata
         title='Henrique P.'
-        description='Machine Learning Engineer'
+        description='Product Manager'
         name='Henrique Pett'
       />
       <Main>
