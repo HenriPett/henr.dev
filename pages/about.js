@@ -25,37 +25,17 @@ const About = () => (
           </section>
           <section>
             <p>
-              <span className='dropCap'>A</span>s a Machine Learning Engineer at Loopt, I leverage the transformative power
-              of Artificial Intelligence (AI), data science, and advanced statistical techniques
-              to create high-impact solutions for different companies to overcome their most 
-              challenging logistic problems. I have developed an end-to-end solution that saves
-              thousands of dollars annually by avoiding inappropriate movements and predicting future outcomes.
+              <span className='dropCap'>A</span>s a Product Manager at Loopt, I bring a unique blend of technical understanding and market-driven focus to lead product strategies that resonate with customer needs and industry trends. My transition from a Machine Learning Engineer to a Product Manager reflects my ability to translate complex technical concepts into accessible and impactful user experiences.
             </p>
             <p>
-              My career began as an AI/ML researcher, focusing intensively on algorithm performance and 
-              optimization across various embedded systems. Transitioning to a developer role, I garnered
-              invaluable insights into technology product development while refining my Python, TensorFlow,
-              PyTorch, Scikit-Learn, and SQL skills. This passion for AI/ML subsequently guided me back to the 
-              data domain, where I played a pivotal role in founding a data department at my company.
+              My journey began in the realm of AI/ML, where I acquired a fundamental grasp of technology and data science. This experience, though technical in nature, laid the groundwork for my deep appreciation of user-centric product development. As I transitioned through roles, my focus shifted from the intricacies of algorithm performance to the broader vision of how technology can solve real-world problems, particularly in the financial and logistics sectors.
             </p>
             <p>
-              With a solid track record in the financial and logistics sectors, I specialize in wielding
-              AI/ML tools, Deep Learning frameworks, and sophisticated statistical methods to drive innovation
-              and achieve sustainable results. My comprehensive technical skill set encompasses proficiency in 
-              Python programming, experience with Deep Learning/Machine Learning frameworks, expertise in SQL, 
-              and familiarity with AWS Cloud services. My portfolio spans projects in predictive modeling, data analysis, production
-              model deployment, and advanced statistical modeling.
+              In my role as a Product Manager, my mission is to harmonize technical potential with market demands. Leveraging my background in AI/ML, I focus on developing products that are not only technologically sound but also strategically aligned with business goals and user expectations. My approach is characterized by a customer-first mindset, ensuring that every product decision is informed by user needs and market insights.
             </p>
             <p>
-              Fluent in English and with basic knowledge of French, I consistently endeavor to expand both my linguistic and technical abilities.
+              Fluent in English and with a basic knowledge of French, I continually seek to enhance my communication skills, recognizing their vital role in effective product management and team leadership.
             </p>
-            <p>
-              Recently, I have ventured deeper into the exploration of Reinforcement Learning, a crucial frontier in Artificial Intelligence. 
-              Specifically, I've concentrated on the use of actor-critic methods in my latest project. Actor-critic methods, which 
-              constitute a vital component of modern Reinforcement Learning algorithms, provide an optimal balance between exploration and
-              exploitation in complex decision-making processes. This deep dive into adaptive algorithms has not only expanded my
-              expertise but also provided a fresh impetus to my commitment towards driving innovative solutions in AI.
-            </p> 
           </section>
         </div>
       </Main>
