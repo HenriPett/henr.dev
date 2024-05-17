@@ -31,6 +31,16 @@ const Playground = () => (
         </p>
 
         <div className='contentWrapper'>
+
+        <Card
+            link='https://github.com/HenriPett/MachineLearning_Study'
+            className='external mainCard'
+            title='Machine Learning Study'
+            description='Machine Learning Study for college research. I have made it at Google Colab.'
+            type='Repository'
+            target='_blank'
+          />
+              
         <Card
             link='https://github.com/HenriPett/Churn-prediction'
             className='external mainCard'
@@ -90,15 +100,6 @@ const Playground = () => (
             className='external mainCard'
             title='Remote Sensing Study'
             description='Remote Sensing Study for college research. I have made it at Google Colab.'
-            type='Repository'
-            target='_blank'
-          />
-
-          <Card
-            link='https://github.com/HenriPett/MachineLearning_Study'
-            className='external mainCard'
-            title='Machine Learning Study'
-            description='Machine Learning Study for college research. I have made it at Google Colab.'
             type='Repository'
             target='_blank'
           />
