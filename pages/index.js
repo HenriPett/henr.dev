@@ -33,7 +33,7 @@ const Home = () => (
               </li>
               <li className='blog'>
                 <Link href='/projects' as='/projects'>
-                  <a className='internalPassage'>Projects</a>
+                  <a className='internalPassage'>Software Projects</a>
                 </Link>
               </li>
               <li className='blog'>
