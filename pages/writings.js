@@ -27,6 +27,16 @@ export default function Writings() {
           </p>
           <div className="contentWrapper">
             <Card
+              link={`https://henriquepett.medium.com/why-its-essential-to-make-decisions-with-multiple-individuals-5a5b43e88496`}
+              className="mainCard"
+              title={"Why It's essential to make decisions with multiple individuals?"}
+              description={
+                "A prediction, when taken together, has a much higher accuracy rate compared to a prediction taken by a single individual!"
+              }
+              type={"Blog"}
+              target=""
+            />
+            <Card
               link={`https://neptune.ai/blog/building-ml-model-training-pipeline`}
               className="mainCard"
               title={"How to Build ML Model Training Pipeline"}
@@ -64,16 +74,6 @@ export default function Writings() {
               }
               description={
                 "In this article, I’ll be discussing BBC’s documentary “Masters Of Money”, which examines how three extraordinary thinkers, John M. Keynes, Friedrich Hayek, and Karl Marx, helped shape the 20th century. In this context, I’ll add some of my experiences and examples in the financial market to make their ideas more understandable."
-              }
-              type={"Blog"}
-              target=""
-            />
-            <Card
-              link={`https://henriquepett.medium.com/why-its-essential-to-make-decisions-with-multiple-individuals-5a5b43e88496`}
-              className="mainCard"
-              title={"Why It's essential to make decisions with multiple individuals?"}
-              description={
-                "A prediction, when taken together, has a much higher accuracy rate compared to a prediction taken by a single individual!"
               }
               type={"Blog"}
               target=""
