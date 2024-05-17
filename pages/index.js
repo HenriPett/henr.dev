@@ -30,11 +30,11 @@ const Home = () => (
                 <Link href='/about' as='/about'>
                   <a className='internalPassage'>About</a>
                 </Link>
+              </li>
               <li className='blog'>
                 <Link href='/writings' as='/writings'>
                   <a className='internalPassage'>Writings</a>
                 </Link>
-              </li>
               </li>
               <li className='blog'>
                 <Link href='/projects' as='/projects'>
